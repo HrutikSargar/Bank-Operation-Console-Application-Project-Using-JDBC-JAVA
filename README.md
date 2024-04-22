@@ -30,4 +30,7 @@ Key Features:
 Overall, the Bank Operations Console Application offers a convenient and accessible platform for managing banking operations efficiently within a console environment, making it suitable for users who prefer a simple yet functional interface.
 
 
+
+1.CREATE ACCOUNT:
+
 ![create account](https://github.com/HrutikSargar/Bank-Operation-Console-Application-Project-Using-JDBC-JAVA/assets/106005765/4fdc5791-864e-448e-a851-d085feee0c50)
